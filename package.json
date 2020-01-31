@@ -1,0 +1,22 @@
+{
+  "name": "oyo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "fakerator": "^0.3.1",
+    "prompt": "^1.0.0",
+    "random-email": "^1.0.3",
+    "random-lorem": "^1.0.4",
+    "to-str": "^1.0.0",
+    "unique-random": "^2.1.0",
+    "uuid": "^3.4.0"
+  }
+}
